@@ -162,4 +162,6 @@ func main() {
 			}
 		}
 	}
+
+	fmt.Println("Adding a test line")
 }
